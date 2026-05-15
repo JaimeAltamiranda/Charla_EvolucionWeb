@@ -63,4 +63,6 @@ Mostrar las diferencias entre una página antigua y una página moderna en aspec
 ├── index.html
 ├── style.css
 ├── script.js
+├── simple.html
+├── Diagrama_de_Flujo.jpeg
 └── README.md
