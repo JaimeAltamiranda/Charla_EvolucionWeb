@@ -60,9 +60,9 @@ Mostrar las diferencias entre una página antigua y una página moderna en aspec
 ```bash
 /Proyecto
 │
+├── Diagrama_de_Flujo.jpeg
+├── README.md
 ├── index.html
-├── style.css
 ├── script.js
 ├── simple.html
-├── Diagrama_de_Flujo.jpeg
-└── README.md
+└── style.css
